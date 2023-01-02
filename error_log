@@ -1,0 +1,140 @@
+[18-Dec-2016 12:59:03 Asia/Kolkata] PHP Fatal error:  Call to a member function cc() on null in /home/aasvaaco/public_html/aasvaa/application/views/web/contents/sliders/product_slider1.php on line 38
+[18-Dec-2016 13:02:01 Asia/Kolkata] PHP Fatal error:  Call to a member function get_mobile_nav_menu() on null in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 20
+[18-Dec-2016 13:02:04 Asia/Kolkata] PHP Fatal error:  Call to a member function get_mobile_nav_menu() on null in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 20
+[18-Dec-2016 13:02:11 Asia/Kolkata] PHP Fatal error:  Call to a member function get_mobile_nav_menu() on null in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 20
+[18-Dec-2016 13:02:15 Asia/Kolkata] PHP Fatal error:  Call to a member function get_mobile_nav_menu() on null in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 20
+[18-Dec-2016 18:47:42 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_checkout::update_coupen_data() in /home/aasvaaco/public_html/aasvaa/application/controllers/Checkout.php on line 566
+[20-Dec-2016 14:47:34 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/aasvaaco/public_html/aasvaa/includes/geoiploc.php on line 2060
+[20-Dec-2016 14:47:42 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/aasvaaco/public_html/aasvaa/includes/geoiploc.php on line 2059
+[20-Dec-2016 14:47:45 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 72 bytes) in /home/aasvaaco/public_html/aasvaa/includes/geoiploc.php on line 2059
+[23-Dec-2016 19:48:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/aasvaaco/public_html/aasvaa/application/controllers/api/Cart_api.php on line 251
+[23-Dec-2016 19:48:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/aasvaaco/public_html/aasvaa/application/controllers/api/Cart_api.php on line 251
+[23-Dec-2016 19:48:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/aasvaaco/public_html/aasvaa/application/controllers/api/Cart_api.php on line 251
+[24-Dec-2016 17:41:51 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_Order_det::get_ccavenue_payment_data() in /home/aasvaaco/public_html/aasvaa/application/controllers/account/Order_det.php on line 24
+[05-Jan-2017 19:16:57 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:17 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:23 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:27 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:30 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:31 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:48 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:17:48 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:20 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:22 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:25 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:27 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:28 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:18:34 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:37 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:42 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:46 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:47 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:48 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:48 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:19:48 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:21:13 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:21:30 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:22:42 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[05-Jan-2017 19:22:43 Asia/Kolkata] PHP Fatal error:  Class 'My_Controller' not found in /home/aasvaaco/public_html/aasvaa/application/controllers/Home.php on line 3
+[07-Jan-2017 14:37:35 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4608 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 1460
+[07-Jan-2017 14:45:10 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4608 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 1460
+[21-Jan-2017 12:42:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_zepo::delete_row() in /home/aasvaaco/public_html/aasvaa/application/controllers/zepo/Zepo.php on line 278
+[21-Jan-2017 12:51:09 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_zepo::insert() in /home/aasvaaco/public_html/aasvaa/application/controllers/zepo/Zepo.php on line 381
+[21-Jan-2017 12:51:41 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_zepo::insert() in /home/aasvaaco/public_html/aasvaa/application/controllers/zepo/Zepo.php on line 381
+[21-Jan-2017 12:52:36 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_zepo::insert() in /home/aasvaaco/public_html/aasvaa/application/controllers/zepo/Zepo.php on line 381
+[25-Jan-2017 12:51:57 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 1372 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 811
+[27-Jan-2017 11:43:37 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 874 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 811
+[27-Jan-2017 11:44:59 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 14228 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 1460
+[27-Jan-2017 12:16:02 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 874 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 811
+[27-Jan-2017 12:24:05 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 874 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 811
+[27-Jan-2017 12:57:56 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 874 bytes) in /home/aasvaaco/public_html/aasvaa/system/libraries/Image_lib.php on line 811
+[27-Jan-2017 16:27:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/aasvaaco/public_html/aasvaa/application/controllers/Wishlist.php on line 13
+[27-Jan-2017 16:27:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/aasvaaco/public_html/aasvaa/application/controllers/Wishlist.php on line 13
+[27-Jan-2017 16:28:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/aasvaaco/public_html/aasvaa/application/controllers/Wishlist.php on line 13
+[27-Jan-2017 16:28:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/aasvaaco/public_html/aasvaa/application/controllers/Wishlist.php on line 13
+[27-Jan-2017 18:50:54 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[28-Jan-2017 10:23:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[28-Jan-2017 10:24:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[01-Feb-2017 10:57:39 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[01-Feb-2017 11:06:44 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[01-Feb-2017 11:07:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[01-Feb-2017 11:09:19 Asia/Kolkata] PHP Fatal error:  Call to undefined method M_search::add_serch_report() in /home/aasvaaco/public_html/aasvaa/application/controllers/Search.php on line 23
+[02-Feb-2017 11:15:07 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/Home_model.php on line 148
+[02-Feb-2017 11:15:14 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/Home_model.php on line 148
+[02-Feb-2017 11:15:17 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/Home_model.php on line 148
+[12-Feb-2017 10:25:48 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/admin/M_report.php on line 40
+[12-Feb-2017 10:25:53 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/admin/M_report.php on line 40
+[13-Feb-2017 12:44:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/aasvaaco/public_html/aasvaa/application/models/web/M_search.php on line 122
+[13-Feb-2017 12:45:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ';' in /home/aasvaaco/public_html/aasvaa/application/models/web/M_search.php on line 122
+[24-Feb-2017 14:45:30 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[24-Feb-2017 14:45:45 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[24-Feb-2017 14:45:47 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[24-Feb-2017 14:45:47 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[24-Feb-2017 14:45:47 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[24-Feb-2017 14:45:48 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[03-Mar-2017 23:13:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:13:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:13:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:13:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:14:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:22 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:15:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[03-Mar-2017 23:16:01 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[04-Mar-2017 11:54:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[04-Mar-2017 11:54:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[04-Mar-2017 11:54:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[04-Mar-2017 11:56:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[04-Mar-2017 11:57:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/aasvaaco/public_html/aasvaa/application/views/web/account/order_det2.php on line 884
+[24-Mar-2017 01:01:46 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/crons/M_crons.php on line 38
+[25-Mar-2017 15:32:18 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'includes/pdf/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aasvaaco/public_html/aasvaa/application/controllers/admin/order_man/Order_detail.php on line 674
+[25-Mar-2017 15:32:22 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'includes/pdf/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aasvaaco/public_html/aasvaa/application/controllers/admin/order_man/Order_detail.php on line 674
+[25-Mar-2017 15:33:30 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'includes/pdf/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/aasvaaco/public_html/aasvaa/application/controllers/admin/order_man/Order_detail.php on line 675
+[27-Mar-2017 18:50:11 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:50:12 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:50:12 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:50:12 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:10 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:10 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:10 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:53 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:53 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:53 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:53 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 18:51:53 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[27-Mar-2017 23:52:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/aasvaaco/public_html/aasvaa/application/controllers/crns/Others.php on line 167
+[29-Mar-2017 19:24:06 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/account/M_order_det.php on line 211
+[30-Mar-2017 10:13:38 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/account/M_order_det.php on line 211
+[30-Mar-2017 10:39:14 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/account/M_order_det.php on line 211
+[30-Mar-2017 10:54:57 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/account/M_order_det.php on line 211
+[30-Mar-2017 10:54:57 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/account/M_order_det.php on line 211
+[30-Mar-2017 21:00:08 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[30-Mar-2017 21:00:08 Asia/Kolkata] PHP Fatal error:  Call to a member function real_escape_string() on boolean in /home/aasvaaco/public_html/aasvaa/system/database/drivers/mysqli/mysqli_driver.php on line 392
+[31-Mar-2017 14:33:44 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 15:01:49 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 15:57:16 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 15:57:32 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 15:57:44 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 15:57:51 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 16:03:43 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[31-Mar-2017 16:03:43 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/aasvaaco/public_html/aasvaa/system/libraries/Session/drivers/Session_files_driver.php on line 254
+[01-Apr-2017 17:59:29 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/libraries/Pp_loader_helper.php on line 41
+[02-Apr-2017 10:16:21 Asia/Kolkata] PHP Fatal error:  Call to a member function row() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/web/M_cate.php on line 130
+[03-Apr-2017 00:02:01 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/crons/M_crons.php on line 83
+[03-Apr-2017 00:02:01 Asia/Kolkata] PHP Fatal error:  Call to a member function result() on boolean in /home/aasvaaco/public_html/aasvaa/application/models/crons/M_crons.php on line 38

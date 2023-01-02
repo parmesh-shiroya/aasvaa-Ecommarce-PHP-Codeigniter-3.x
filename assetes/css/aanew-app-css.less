@@ -1,0 +1,199 @@
+@g1 : 375px;
+@g2 : 410px;
+@g3 : 490px;
+@g4 : 576px;
+@g5 : 768px;
+@g6 : 1024px;
+@g7 : 1440px;
+@g8 : 1600px;
+
+/*
+cc = color 9
+c9-container
+g = grid
+p = padding: 
+m = margin
+fs- font-size
+fw= font-weight
+g1-pt-4
+pt4
+*/
+
+////// Grid @className = g1  g2 g3///////
+.grid(@className){
+ 	&.@{className}24{width:100%;}
+    &.@{className}23{width:95.84%;}
+	&.@{className}22{width:91.66%;}
+	&.@{className}21{width:87.5%;}
+	&.@{className}20{width:83.66%;}
+	&.@{className}19{width:79.16%;}
+	&.@{className}18{width:75%;}
+	&.@{className}17{width:70.83%;}
+	&.@{className}16{width:66.66%;}
+	&.@{className}15{width:62.5%;}
+	&.@{className}14{width:58.33%;}
+	&.@{className}13{width:54.17%;}
+	&.@{className}12{width:50%;}
+	&.@{className}11{width:45.83%;}
+	&.@{className}10{width:41.66%;}
+	&.@{className}9{width:37.5%;}
+	&.@{className}8{width:33.33%;}
+	&.@{className}7{width:29.17%;}
+	&.@{className}6{width:25%;}
+	&.@{className}5{width:20.83%;}
+	&.@{className}4{width:16.33%;}
+	&.@{className}3{width:12.5%;}
+	&.@{className}2{width:8.33%;}
+	&.@{className}1{width:4.16%;}
+	&.@{className}0{width:0%;}
+}
+.grid2(@className){
+	.grid(g8);
+	.grid(g7);
+	.grid(g6);
+	.grid(g5);
+	.grid(g4);
+	.grid(g3);
+	.grid(g2);
+	.grid(g1);
+}
+////// ,pm  padding margin
+.padding(@grid,@size){
+	// .@{grid}plt@{size}{
+	// 	padding-left: @size+0px;
+	// 	padding-top: @size+0px;
+	// }
+	.@{grid}plr@{size}{
+		padding-left: @size+0px;
+		padding-right: @size+0px;
+	}
+	// .@{grid}plb@{size}{
+	// 	padding-left: @size+0px;
+	// 	padding-bottom: @size+0px;
+	// }
+	// .@{grid}ptr@{size}{
+	// 	padding-top: @size+0px;
+	// 	padding-right: @size+0px;
+	// }
+	.@{grid}ptb@{size}{
+		padding-bottom: @size+0px;
+		padding-top: @size+0px;
+	}
+	// .@{grid}prb@{size}{
+	// 	padding-right: @size+0px;
+	// 	padding-bottom: @size+0px;
+	// }
+	.@{grid}pl@{size}{padding-left: @size+0px;}
+	.@{grid}pt@{size}{padding-top: @size+0px;}
+	.@{grid}pr@{size}{padding-right: @size+0px;}
+	.@{grid}pb@{size}{padding-bottom: @size+0px;}
+
+	
+}
+.margin(@grid,@size){
+	// .@{grid}mlt@{size}{
+	// 	margin-left: @size+0px;
+	// 	margin-top: @size+0px;
+	// }
+	.@{grid}mlr@{size}{
+		margin-left: @size+0px;
+		margin-right: @size+0px;
+	}
+	// .@{grid}mlb@{size}{
+	// 	margin-left: @size+0px;
+	// 	margin-bottom: @size+0px;
+	// }
+	// .@{grid}mtr@{size}{
+	// 	margin-top: @size+0px;
+	// 	margin-right: @size+0px;
+	// }
+	.@{grid}mtb@{size}{
+		margin-bottom: @size+0px;
+		margin-top: @size+0px;
+	}
+	// .@{grid}mrb@{size}{
+	// 	margin-right: @size+0px;
+	// 	margin-bottom: @size+0px;
+	// }
+	.@{grid}ml@{size}{margin-left: @size+0px;}
+	.@{grid}mt@{size}{margin-top: @size+0px;}
+	.@{grid}mr@{size}{margin-right: @size+0px;}
+	.@{grid}mb@{size}{margin-bottom: @size+0px;}
+}
+.font-size(@grid,@size){
+	.@{grid}fs@{size}{font-size: @size+0px;}
+}
+/*
+p = padding
+m = margin
+fs = font-size
+*/
+.pmfs(@class,@size){
+	.padding(@class,@size);
+	.margin(@class,@size);
+	.font-size(@class,@size);
+}
+.medias(@class,@size){
+@media screen{
+		@media (max-width:@g8){
+			@ng8 :g8;
+			.media_includes(@ng8,@size);
+		}
+		@media (max-width:@g7){
+			@ng7 :g7;
+			.media_includes(@ng7,@size);
+		}
+		@media (max-width:@g6){
+			@ng6 :g6;
+			.media_includes(@ng6,@size);
+		}
+		@media (max-width:@g5){
+			@ng5 :g5;
+			.media_includes(@ng5,@size);
+		}
+		@media (max-width:@g4){
+			@ng4 :g4;
+			.media_includes(@ng4,@size);
+		}
+		@media (max-width:@g3){
+			@ng3 :g3;
+			.media_includes(@ng3,@size);
+		}
+		@media (max-width:@g2){
+			@ng2 :g2;
+			.media_includes(@ng2,@size);
+		}
+		@media (max-width:@g1){
+			@ng1 :g1;
+			.media_includes(@ng1,@size);
+		}
+
+	}
+}	
+.media_includes(@ng,@size){
+	.pmfs(@ng,@size);
+}
+
+.pmfs_with_grid(@size){
+.pmfs(g8,@size);
+// .pmfs(g7,@size);
+// .pmfs(g6,@size);
+// .pmfs(g5,@size);
+// .pmfs(g4,@size);
+// .pmfs(g3,@size);
+// .pmfs(g2,@size);
+// .pmfs(g1,@size);
+// .medias(pmfs,@size);
+}
+.loop(@counter) when (@counter >= 0) {
+  .pmfs_with_grid(@counter);
+  .loop((@counter - 1));  
+}
+
+.loop(24);
+
+// c-pt45
+
+// .pp-gird{
+
+// }

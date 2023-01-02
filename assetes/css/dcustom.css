@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css?family=Aref+Ruqaa|Courgette|Lora:400,400i,700,700i|Overlock:400,700,900|Catamaran:400,600,700,800|Copse|Crete+Round|Dosis:200,300,400,500,600,700,800|Fira+Sans|Noto+Serif|Nunito|Oleo+Script|Open+Sans:400,600,700|Raleway:400,500,600,700|Roboto+Slab:400,700|Roboto:400,500,700|Rokkitt|Rubik:400,500|Slabo+27px|Source+Sans+Pro:400,600,700|Varela+Round');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+@import url('https://fonts.googleapis.com/css?family=Antic+Slab|Belgrano|Bree+Serif|Comfortaa:300,400,700|Kreon:300,400,700|Scope+One|Yantramanav:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Karla:400,700');
+body {
+  background: #FAFBFC;
+}
+
+.overflow_hidden {
+  overflow-y: hidden;
+
+}
+
+.overflow_scroll {
+  overflow-y: scroll;
+}
+
+.i-block {
+  display: inline-block;
+}
+
+.zero_padding {
+  padding: 0px !important;
+}
+/****************** Paddings ******************/
+.pad_15 {
+  padding: 15px !important;
+}
+
+.pad_5 {
+  padding: 5px !important;
+}
+/****************** Size ******************/
+.height_100 {
+  height: 100%;
+}
+
+.width_90 {
+  width: 90% !important;
+}
+
+.width_300p {
+  width: 300px !important;
+}
+/****************** Margins ******************/
+
+.zero_margin {
+  margin: 0px !important;
+}
+
+.mar_t_10 {
+  margin-top: 10px !important;
+}
+
+.mar_10 {
+  margin: 10px !important;
+}
+
+.mar_15 {
+  margin: 15px !important;
+}
+
+.mar_tb_10 {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.mar_lr_40 {
+  margin-left: 40px !important;
+  margin-right: 40px !important;
+}
+/****************** Font-size ******************/
+
+.font-26 {
+  font-size: 26px !important;
+}
+
+.font-20 {
+  font-size: 20px !important;
+}
+
+.font-18 {
+  font-size: 18px !important;
+}
+
+.font-16 {
+  font-size: 16px !important;
+}
+
+.font-14 {
+  font-size: 14px !important;
+}
+
+.font-13 {
+  font-size: 13px !important;
+}
+
+.font-12 {
+  font-size: 12px !important;
+}
+
+.button-collapse .material-icons{
+  color: #4C4C4C;
+}
+
+.scroll-to-top{
+  cursor: default;
+  opacity: 0;
+  -webkit-transition: all .40s ;
+           -moz-transition: all .40s ;
+            -ms-transition: all .40s ;
+             -o-transition: all .40s ;
+                transition: all .40s ;
+}
+.scroll-to-top-activated{
+  cursor: pointer;
+  opacity: .9;
+}

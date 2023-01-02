@@ -1,0 +1,94 @@
+.pp-click-show-div {
+  z-index: 20;
+  padding: 0px !important;
+  height: 0px;
+  background:#eee;
+  overflow: hidden;
+}
+.pp-click-show-div-activate {
+  padding: 10px !important;
+  height: auto;
+}
+.pp_show_on_check_div {
+  padding: 0px !important;
+  height: 0px;
+  overflow: hidden;
+}
+.pp_show_on_check_div-activate {
+  padding: 10px !important;
+  height: auto;
+  overflow: unset;
+}
+.pp_admin_main_col .pp-admin-header {
+  background: #F35B4E;
+}
+.pp_admin_main_col .pp-admin-content {
+  overflow-y: auto;
+}
+.pp-admin-nav-col .pp-admin-nav.nav_toogle {
+  cursor: pointer;
+  background: rgb(152,25,55);
+}
+.pp-admin-nav-col .pp-admin-nav.main {
+  color: #636574;
+  cursor: pointer;
+  -webkit-transition: all .40s ;
+  transition: all .40s ;
+  border-bottom: solid 1px #E2DEE1; 
+}
+.pp-admin-nav-col .pp-admin-nav.main a{
+  color: #636574;
+  -webkit-transition: all .40s ;
+  transition: all .40s ;
+  }
+  .pp-admin-nav-col .pp-admin-nav.main:hover a{
+  color: rgb(152,25,55);
+
+  }
+  .pp-admin-nav-col .pp-admin-nav.main.pp-activate a{
+  color: rgb(152,25,55);  
+  }
+.pp-admin-nav-col .pp-admin-nav.main.pp-activate {
+  color: rgb(152,25,55);
+background:rgba(0, 0, 0, 0) linear-gradient(-90deg, rgba(0, 0, 0, 0) 98.5%, rgb(152,25,55) 50%) repeat scroll 0 0 ;
+}
+.pp-admin-nav-col .pp-admin-nav.main:hover {
+  color: rgb(152,25,55);
+  // background: #37384A;
+    background:rgba(0, 0, 0, 0) linear-gradient(-90deg, rgba(0, 0, 0, 0) 98.5%, rgb(152,25,55) 50%) repeat scroll 0 0 ;
+}
+.pp-admin-nav-col .pp-admin-nav.sub .subs {
+  color: #636574;
+  font-size: 13px;
+
+  font-family: 'Raleway', sans-serif;
+  cursor: pointer;
+  -webkit-transition: all .40s ;
+  transition: all .40s ;
+  padding-left: 60px !important;
+   border-bottom: 1px solid #ddd;
+}
+@media only screen and (max-width : 1300px) {
+.web_site .pp-admin-nav-col .pp-admin-nav.sub .subs {
+  padding-left: 30px !important;
+  }
+}
+@media only screen and (max-width : 1200px) {
+.web_site .pp-admin-nav-col .pp-admin-nav.sub .subs {
+  padding-left: 10px !important;
+  }
+}
+.pp-admin-nav-col .pp-admin-nav.sub .subs.pp-activate {
+  color: rgb(152,25,55);
+  font-weight: 500;
+  background:rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 0, 0, 0) 99%, rgb(152,25,55) 70%) repeat scroll 0 0 ;
+}
+.pp-admin-nav-col .pp-admin-nav.sub .subs:hover {
+  color: rgb(152,25,55);
+
+  // background: #37384A;
+background:rgba(0, 0, 0, 0) linear-gradient(90deg, rgba(0, 0, 0, 0) 99%, rgb(152,25,55) 70%) repeat scroll 0 0 ;
+}
+.dis-none {
+  display: none;
+}

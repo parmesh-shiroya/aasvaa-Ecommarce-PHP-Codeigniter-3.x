@@ -1,0 +1,17 @@
+SKU,Stock,Retail Price,Selling Price,,,
+NMMJA7007B,5,,,,,
+NMMJA7006B,5,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,Method
+,,,,,,"1. Enter SKU, Stock, Retail Price, Selling Price"
+,,,,,,2. Press Generate Button.
+,,,,,,3. 'Upload file' generat and save Where This Work Book Exist. And In 'G1' cell file name show.
+,,,,,,4. Upload That Generated CSV File In Website.
+,,,,,,
+,,,,,,Note
+,,,,,,Leave Empty Any Field If You Not want to change that Value.
+,,,,,,Make Sure the SKU is Correct.
+,,,,,,And check in website after this file upload. That specified SKU's value Changed or not.
